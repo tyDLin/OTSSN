@@ -16,4 +16,4 @@ The MATLAB Implementations on Synthetic Data are provided.
 
 # References
 
-T. Lin, M. Cuturi and M. I. Jordan. A Specialized Semismooth Newton Method for Kernel-Based Optimal Transport. AISTATS'2024. 
+T. Lin, M. Cuturi and M. I. Jordan. A Specialized Semismooth Newton Method for Kernel-Based Optimal Transport. International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.
